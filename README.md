@@ -2,23 +2,7 @@
 
 RMI calculator is a distributed calculator system which can handle multiclient case with one activate server.
 
-## How to run
-
-Please follow my steps !
-Please kill all of the useless processes first! 
-Because it might be crash by some other process which are using the port that I want to use, though, I have randomized my port.
-
-### First Step
-
-Open the terminal under assignment1 folder.
-
-### Second Step
-
-Compile the .java files first!
-
-```
-Run: javac *.java
-```
+## How to use
 
 ## Mode Explain
 
