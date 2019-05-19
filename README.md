@@ -67,10 +67,3 @@ Else, if you want to check the case that each client has their own stack, set th
 ```
 -DclientNum={ANY INTEGER YOU WANT} -DstackOption=true
 ```
-
-## Feedback
-
-Looking for your feedback and guidance.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit)
